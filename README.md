@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+It's Ahmet - a student loves coding!  
+he/him & attack/helicopter  
+  
+I am currently focused on expanding my GitHub profile.  
+If you are interested, also check out: [QuoteGen](https://github.com/ahmojunior/quotegen)
 <!--
 **ahmojunior/ahmojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
