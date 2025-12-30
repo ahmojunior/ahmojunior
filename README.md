@@ -3,7 +3,7 @@ It's Ahmet - a student loves coding!
 he/him & attack/helicopter  
   
 I am currently focused on expanding my GitHub profile.  
-If you are interested, also check out: [QuoteGen](https://github.com/ahmojunior/quotegen)
+If you are interested, also check out: [fonksiyonla](https://github.com/ahmojunior/fonksiyonla)
 <!--
 **ahmojunior/ahmojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
