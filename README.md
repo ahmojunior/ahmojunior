@@ -5,7 +5,7 @@ he/him & attack/helicopter
 I am currently focused on expanding my GitHub profile.  
 If you are interested, also check out: [fonksiyonla](https://github.com/ahmojunior/fonksiyonla)
 
-![](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
+![](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
 
 <!--
