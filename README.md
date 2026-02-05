@@ -1,9 +1,8 @@
 ## Hi there 👋
-It's Ahmet - a student loves coding!  
+It's Ahmet - a student who loves coding!  
 he/him & attack/helicopter  
 
-I am currently focused on expanding my GitHub profile.  
-If you are interested, also check out: [fonksiyonla](https://github.com/ahmojunior/fonksiyonla)
+Currently working on: [Green Turkiye](https://github.com/ahmojunior/green-turkiye)
 
 ![](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
